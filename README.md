@@ -22,8 +22,8 @@ Configuration
 The slot game can be configured by modifying the parameters in the SlotGame class. You can change the number of reels, rows, symbols, and predefined lines according to your preferences.
 
 Contributing
-Contributions to this project are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
+Contributions to this project are welcome!
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License:)
 
